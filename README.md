@@ -10,7 +10,9 @@ Her günün notları içerisine readme dosyası eklendi ayrıca https://www.noti
 
 ## 1. GÜN YAPILAN ÇALIŞMALAR
  🔥 Pythonun tarihçesi
+<br/>
  🔥 Neden Python
+<br/>
  🔥 Python Kullanırken Dikkat edilmesi gereken kurallardan bahsettim.
  
 

@@ -9,11 +9,10 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 Her günün notları içerisine readme dosyası eklendi ayrıca https://www.notion.so/Python-Ders-Notlar-773ce2882b7243ca95f8b4ab70ce2548 tüm notların derli toplu olduğu notion sayfama da gidebilirsiniz.
 
 ## 1. GÜN YAPILAN ÇALIŞMALAR
- 🔥 Teorik olarak notlarımın arasında Python tarihçesi, neden python? ve python kullanırken dikkat edilecek başlıklardan bahsettim.
-  <br>
- 🔥 Yorum satırları üzerine anlatım yapıldı.
-  <br>
- 🔥 print fonksiyonu işlendi.
-  <br>
- 🔥 String, integer, float ve boolean veri türleri işlendi. 
+ 🔥 Pythonun tarihçesi
+<br/>
+ 🔥 Neden Python
+<br/>
+ 🔥 Python Kullanırken Dikkat edilmesi gereken kurallardan bahsettim.
+ 
 

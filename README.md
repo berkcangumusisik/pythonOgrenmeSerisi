@@ -28,3 +28,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Dilekçe Örneği
 - Yas Hesaplama
 - Doğalgaz Hesaplama
+
+## 4. GÜN YAPILAN ÇALIŞMALAR
+- Vücut Kitle İndeksi Hesaplayıcı
+- Bahşiş Hesaplayıcı
+- Listeler
+- Liste Uygulamaları

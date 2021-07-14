@@ -16,3 +16,15 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Değişkenler
 - Değişken uygulaması
 - Sayı Veri Türleri
+	
+## 3. GÜN YAPILAN ÇALIŞMALAR
+- String Veri Tipi
+- String Metotları
+- Input
+- String uygulamaları
+- Sayıların yerini değiştirme uygulaması
+- Kaç mil eder
+- Bant Adı Oluşturucusu
+- Dilekçe Örneği
+- Yas Hesaplama
+- Doğalgaz Hesaplama

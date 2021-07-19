@@ -38,3 +38,11 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 ## 5. GÜN YAPILAN ÇALIŞMALAR
 - Tuple
 - Set
+	
+## 6. GÜN YAPILAN ÇALIŞMALAR
+- Dictionary
+- Boolean
+- Dictionary Uygulama
+- Telefon Rehberi uygulaması
+- Şirket Çalışanları uygulaması
+- Öğrenciler uygulaması

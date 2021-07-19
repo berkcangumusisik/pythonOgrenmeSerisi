@@ -34,3 +34,7 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Bahşiş Hesaplayıcı
 - Listeler
 - Liste Uygulamaları
+	
+## 5. GÜN YAPILAN ÇALIŞMALAR
+- Tuple
+- Set

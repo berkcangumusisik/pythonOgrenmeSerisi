@@ -46,3 +46,20 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Telefon Rehberi uygulaması
 - Şirket Çalışanları uygulaması
 - Öğrenciler uygulaması
+
+## 7. GÜN YAPILAN ÇALIŞMALAR
+- Karşılaştırma Operatörleri
+- Mantıksal Operatörler
+- Karar Yapıları
+- Bir sayı yediye bölünebilir mi bölünemez mi?
+- Vize Final Hesaplama Uygulaması
+- Büyüktür Küçüktür Uygulaması
+- Artık Yıl Hesaplayıcı
+- Üçgenin çeşidini Bulma
+- Ateş Ölçer
+- Sayı Tek mi Çift mi?
+- En Büyük Sayı Bulucu
+- Pizza Fiyatı Hesaplayıcı
+- Vücüt Kitle İndeksi Hesaplayıcı
+- Hazine Adası 
+- Ehliyet Alma Durumu

@@ -63,3 +63,29 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Vücüt Kitle İndeksi Hesaplayıcı
 - Hazine Adası 
 - Ehliyet Alma Durumu
+
+
+## 8. GÜN YAPILAN ÇALIŞMALAR
+- Döngüler
+- Range Fonksiyonu
+- Break ve Continue Deyimi
+- For Uygulaması
+- Sayı Tahmin Uygulaması
+- Yıldız Üçgeni
+
+## 9. GÜN YAPILAN ÇALIŞMALAR
+- Parola Kontrolü
+- Liste Farkını Bulma
+- Harf Sayacı
+- Asal Sayı
+- Hesap Makinesi
+- Faktöriyel Hesaplama
+- Çarpım Tablosu
+
+## 10. GÜN YAPILAN ÇALIŞMALAR
+- Fonksiyonlar
+- Return Deyimi
+- Fonksiyon Uygulaması
+- Maaş Hesaplayıcı
+- Hız Formulü
+- Garip Adam Dışarı 

@@ -89,3 +89,13 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Maaş Hesaplayıcı
 - Hız Formulü
 - Garip Adam Dışarı 
+
+## 11. GÜN YAPILAN ÇALIŞMALAR
+- *args ve **kwargs deyimi
+- Pass Deyimi
+- Global ve Yerel Değişkenler
+- Lambda Gösterimi
+- EBOB Hesaplayıcı
+- EKOK Hesaplayıcı
+- Su İçme Algoritması
+- Alana göre Boya Hesaplama 

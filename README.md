@@ -99,3 +99,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - EKOK Hesaplayıcı
 - Su İçme Algoritması
 - Alana göre Boya Hesaplama 
+
+
+## 12. GÜN YAPILAN ÇALIŞMALAR
+- Adam Asmaca
+- Sezar Şifreleme
+- Gömülü Fonksiyonlar

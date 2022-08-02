@@ -15,7 +15,10 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 ## 2. GÜN YAPILAN ÇALIŞMALAR
 - Değişkenler
 - Değişken uygulaması
+- Print() fonksiyonu
+- Yorum satırları
 - Sayı Veri Türleri
+- Type() fonksiyonu
 	
 ## 3. GÜN YAPILAN ÇALIŞMALAR
 - String Veri Tipi

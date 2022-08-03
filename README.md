@@ -31,6 +31,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Dilekçe Örneği
 - Yas Hesaplama
 - Doğalgaz Hesaplama
+- Fantasya
+- Dikdörtgen Alan ve Çevre Hesaplama
 
 ## 4. GÜN YAPILAN ÇALIŞMALAR
 - Vücut Kitle İndeksi Hesaplayıcı

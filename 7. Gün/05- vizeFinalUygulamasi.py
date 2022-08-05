@@ -1,4 +1,5 @@
-""") Kullanıcıdan vize ve final notu isteyin. Girilen vize notunun %40’ı ve 
+"""
+Kullanıcıdan vize ve final notu isteyin. Girilen vize notunun %40’ı ve 
 girilen finalnotunun ise %60’ı alınarak yıl sonu not ortalaması hesaplanacaktır. 
 Bu notortalaması eğer 85 ve üzeri ise AA, 
 75 ve 85 arasında ise BA, 

@@ -68,7 +68,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Vücüt Kitle İndeksi Hesaplayıcı
 - Hazine Adası 
 - Ehliyet Alma Durumu
-
+- Hesap Makinesi Uygulaması
+- Dörtgen Çeşidi Bulucu
 
 ## 8. GÜN YAPILAN ÇALIŞMALAR
 - Döngüler

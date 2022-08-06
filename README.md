@@ -78,6 +78,7 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - For Uygulaması
 - Sayı Tahmin Uygulaması
 - Yıldız Üçgeni
+- List Comprehension
 
 ## 9. GÜN YAPILAN ÇALIŞMALAR
 - Parola Kontrolü
@@ -87,6 +88,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Hesap Makinesi
 - Faktöriyel Hesaplama
 - Çarpım Tablosu
+- Mükemmel Sayı 
+- Armstrong Sayı
+
 
 ## 10. GÜN YAPILAN ÇALIŞMALAR
 - Fonksiyonlar

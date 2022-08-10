@@ -95,20 +95,23 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 ## 10. GÜN YAPILAN ÇALIŞMALAR
 - Fonksiyonlar
 - Return Deyimi
+- *args ve **kwargs deyimi
+- Pass Deyimi
+- Global ve Yerel Değişkenler
+- Lambda Gösterimi
 - Fonksiyon Uygulaması
 - Maaş Hesaplayıcı
 - Hız Formulü
 - Garip Adam Dışarı 
 
 ## 11. GÜN YAPILAN ÇALIŞMALAR
-- *args ve **kwargs deyimi
-- Pass Deyimi
-- Global ve Yerel Değişkenler
-- Lambda Gösterimi
 - EBOB Hesaplayıcı
 - EKOK Hesaplayıcı
 - Su İçme Algoritması
 - Alana göre Boya Hesaplama 
+- Asal Mı?
+- Mükemmel Sayı
+- Sayının Okunuşu
 
 
 ## 12. GÜN YAPILAN ÇALIŞMALAR

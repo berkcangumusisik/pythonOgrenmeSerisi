@@ -117,4 +117,5 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 ## 12. GÜN YAPILAN ÇALIŞMALAR
 - Adam Asmaca
 - Sezar Şifreleme
-- Gömülü Fonksiyonlar
+- Hesap Makinesi
+- Sayı Tahmin Oyunu

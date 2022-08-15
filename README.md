@@ -119,3 +119,15 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Sezar Şifreleme
 - Hesap Makinesi
 - Sayı Tahmin Oyunu
+
+## 13. GÜN YAPILAN ÇALIŞMALAR
+- Modüller 
+- Sayı Tahmin Oyunu
+- Gömülü Fonksiyonlar
+  - map
+  - filter
+  - zip
+  - enumerate
+  - all
+  - any
+- Gömülü Fonksiyonlar Uygulaması  

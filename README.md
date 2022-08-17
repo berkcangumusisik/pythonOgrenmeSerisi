@@ -131,3 +131,11 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
   - all
   - any
 - Gömülü Fonksiyonlar Uygulaması  
+
+## 14. GÜN YAPILAN ÇALIŞMALAR
+- Hata Yönetimi
+  - try except
+  - try except finally
+  - try except else
+  - raise
+- Hata Yönetimi Uygulaması

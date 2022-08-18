@@ -1,0 +1,27 @@
+Ürün: Pirinç || Satış Fiyatı: 9.780000000000001
+Ürün: Bulgur || Satış Fiyatı: 8.15
+Ürün: Nohut || Satış Fiyatı: 9.780000000000001
+Ürün: Kurufasulye || Satış Fiyatı: 9.780000000000001
+Ürün: Barbunya || Satış Fiyatı: 11.41
+Ürün: Fındık İçi || Satış Fiyatı: 48.9
+Ürün: Çekirdek || Satış Fiyatı: 24.45
+Ürün: Şam Fıstığı || Satış Fiyatı: 97.8
+Ürün: Salatalık Turşusu || Satış Fiyatı: 24.45
+Ürün: Ceviz İçi || Satış Fiyatı: 97.8
+Ürün: Şeker || Satış Fiyatı: 13.04
+Ürün: Sirke || Satış Fiyatı: 8.15
+Ürün: Un || Satış Fiyatı: 8.15
+Ürün: Maya || Satış Fiyatı: 3.26
+Ürün: Spagetti || Satış Fiyatı: 6.52
+Ürün: Kırmızı Mercimek || Satış Fiyatı: 9.780000000000001
+Ürün: Yeşil Mercimek || Satış Fiyatı: 9.780000000000001
+Ürün: Patlayan Mısır || Satış Fiyatı: 11.41
+Ürün: Pudra Şekeri || Satış Fiyatı: 8.15
+Ürün: Nişasta || Satış Fiyatı: 13.04
+Ürün: Arpa Şehriye || Satış Fiyatı: 6.52
+Ürün: Domates Salçası || Satış Fiyatı: 8.15
+Ürün: Biber Salçası || Satış Fiyatı: 6.52
+Ürün: Ketçap || Satış Fiyatı: 9.780000000000001
+Ürün: Mayonez || Satış Fiyatı: 9.780000000000001
+Ürün: Acı Biber Turşusu || Satış Fiyatı: 6.52
+Ürün: Zeytinyağı || Satış Fiyatı: 122.25

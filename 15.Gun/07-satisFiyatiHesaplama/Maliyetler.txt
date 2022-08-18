@@ -1,0 +1,27 @@
+Pirinç,6
+Bulgur,5
+Nohut,6
+Kurufasulye,6
+Barbunya,7
+Fındık İçi,30
+Çekirdek,15
+Şam Fıstığı,60
+Salatalık Turşusu,15
+Ceviz İçi,60
+Şeker,8
+Sirke,5
+Un,5
+Maya,2
+Spagetti,4
+Kırmızı Mercimek,6
+Yeşil Mercimek,6
+Patlayan Mısır,7
+Pudra Şekeri,5
+Nişasta,8
+Arpa Şehriye,4
+Domates Salçası,5
+Biber Salçası,4
+Ketçap,6
+Mayonez,6
+Acı Biber Turşusu,4
+Zeytinyağı,75

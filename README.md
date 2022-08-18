@@ -139,3 +139,14 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
   - try except else
   - raise
 - Hata Yönetimi Uygulaması
+
+## 15. GÜN YAPILAN ÇALIŞMALAR
+- Dosya İşlemleri
+  - Dosya Açma ve Kapatma
+  - Dosya Okuma 
+  - Dosya Yazma
+  - Dosyalarda Kullanılan Fonksiyonlar
+  - Dosya Güncelleme
+- Dosya İşlemleri Uygulaması
+- Not Uygulaması
+- Maliyet Uygulaması

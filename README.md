@@ -150,3 +150,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Dosya İşlemleri Uygulaması
 - Not Uygulaması
 - Maliyet Uygulaması
+
+## 16. GÜN YAPILAN ÇALIŞMALAR
+- Nesne Tabanlı Programlamaya Giriş
+- Class kavramı
+- self kavramı
+- __init__ fonksiyonu

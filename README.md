@@ -156,3 +156,10 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Class kavramı
 - self kavramı
 - __init__ fonksiyonu
+
+## 17. GÜN YAPILAN ÇALIŞMALAR
+- Methodlar
+- Inheritance  
+- super() fonksiyonu
+- super().__init__() fonksiyonu kullanımı
+- Kumanda Uygulaması

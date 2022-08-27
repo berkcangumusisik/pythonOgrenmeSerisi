@@ -163,3 +163,19 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - super() fonksiyonu
 - super().__init__() fonksiyonu kullanımı
 - Kumanda Uygulaması
+
+
+## 18. GÜN YAPILAN ÇALIŞMALAR
+- OOP ile Quiz Uygulaması
+- OOP ile Kart Uygulaması
+
+
+## 19. GÜN YAPILAN ÇALIŞMALAR
+- Iterable Nedir?
+- Iteration Nedir?
+- Iterator Nedir?
+- Iterator Oluşturma
+- Iterator Kullanımı
+- Generator Nedir?
+- Generator Oluşturma
+- Generator Kullanımı

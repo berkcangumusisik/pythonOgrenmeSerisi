@@ -179,3 +179,11 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Generator Nedir?
 - Generator Oluşturma
 - Generator Kullanımı
+
+## 20. GÜN YAPILAN ÇALIŞMALAR
+- Numpy Nedir?
+- Numpy Kullanımı
+- Neden Numpy Kullanılır?
+- Numpy Matris Oluşturma
+- Matris Boyut Bilgisi
+- Matris Boyutları

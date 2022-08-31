@@ -187,3 +187,12 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Numpy Matris Oluşturma
 - Matris Boyut Bilgisi
 - Matris Boyutları
+
+## 21. GÜN YAPILAN ÇALIŞMALAR
+- np.arange() fonksiyonu
+- np.zeros() fonksiyonu
+- np.ones() fonksiyonu
+- np.linspace() fonksiyonu
+- np.random.rand() fonksiyonu
+- np.random.randint() fonksiyonu
+- Numpy Array Özellikleri

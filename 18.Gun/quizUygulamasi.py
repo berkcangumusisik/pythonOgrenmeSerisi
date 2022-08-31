@@ -75,13 +75,11 @@ class Quiz:
 
         print(f"Toplam {totalQuestion} sorunun {questionNumber}. sorusundasınız.".center(100,'*'))
 
-q1 = Question("en iyi programlama dili hangisidir?",["python","c#","java","dart"],"python")
-q2 = Question("en popüler programlama dili hangisidir?",["python","java","c#","dart"],"python")
-q3 = Question("en çok kazandıran programlama dili hangisidir?",["python","java","dart","c#"],"python")
-q4 = Question("en sevilen programlama dili hangisidir?",["python","java","dart","c#"],"python")
-q5 = Question("en kolay programlama dili hangisidir?",["python","java","dart","c#"],"python")
+q1 = Question("Hangisi string methodlarından birisi değildir? ",["len","upper","lowe","return"],"return")
+q2 = Question("Python Jump programına kaç kişi kabul almıştır? ",["122","221","222","112"],"122")
+q3 = Question("Hangisi YetGen liderlerinden biri değildir? ",["Berkcan","Çağla","Adem","Gaye"],"Gaye")
 
-sorular = [q1,q2,q3,q4,q5]
+sorular = [q1,q2,q3]
 
 quiz = Quiz(sorular)
 

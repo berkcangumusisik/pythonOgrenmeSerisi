@@ -196,3 +196,10 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - np.random.rand() fonksiyonu
 - np.random.randint() fonksiyonu
 - Numpy Array Özellikleri
+
+## 22. GÜN YAPILAN ÇALIŞMALAR
+- Numpy Array Birleştirme
+- Numpy Array Ayırma
+  - np.split()
+  - np.hsplit()
+  - np.vsplit()

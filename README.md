@@ -203,3 +203,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
   - np.split()
   - np.hsplit()
   - np.vsplit()
+
+## 23. GÜN YAPILAN ÇALIŞMALAR
+- Numpy Array Sıralama
+- Numpy Array İndeksleme
+- Numpy Array Alt Küme İşlemleri

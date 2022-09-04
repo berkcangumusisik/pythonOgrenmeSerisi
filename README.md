@@ -208,3 +208,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Numpy Array Sıralama
 - Numpy Array İndeksleme
 - Numpy Array Alt Küme İşlemleri
+
+## 24. GÜN YAPILAN ÇALIŞMALAR
+- Numpy Fancy İndeks
+- Numpy ile Koşullu Eleman İşlemleri
+- Numpy ile Matematiksel İşlemler
+- Numpy ile İki Bilinmeyenli Denklem Çözümü

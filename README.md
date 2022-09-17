@@ -214,3 +214,7 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Numpy ile Koşullu Eleman İşlemleri
 - Numpy ile Matematiksel İşlemler
 - Numpy ile İki Bilinmeyenli Denklem Çözümü
+
+## 25. GÜN YAPILAN ÇALIŞMALAR
+- Pandas Nedir?
+- Pandas'a Giriş

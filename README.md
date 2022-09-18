@@ -218,3 +218,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 ## 25. GÜN YAPILAN ÇALIŞMALAR
 - Pandas Nedir?
 - Pandas'a Giriş
+
+# 26. GÜN YAPILAN ÇALIŞMALAR
+- Pandas Serisi Oluşturma
+- Pandas Serisi Özellikleri
+- Pandas Serisi Eleman İşlemleri

@@ -223,3 +223,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Pandas Serisi Oluşturma
 - Pandas Serisi Özellikleri
 - Pandas Serisi Eleman İşlemleri
+
+# 27. GÜN YAPILAN ÇALIŞMALAR
+- Pandas DataFrame Oluşturma
+- Pandas DataFrame Eleman İşlemleri
+- 

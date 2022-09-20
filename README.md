@@ -227,4 +227,10 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 # 27. GÜN YAPILAN ÇALIŞMALAR
 - Pandas DataFrame Oluşturma
 - Pandas DataFrame Eleman İşlemleri
+
+# 28. GÜN YAPILAN ÇALIŞMALAR
+- Gözlem ve Değişken Seçimi
+- Koşullu Birleştirme
+- Join İşlemleri
 - 
+

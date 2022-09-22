@@ -232,5 +232,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Gözlem ve Değişken Seçimi
 - Koşullu Birleştirme
 - Join İşlemleri
-- 
+
+# 29. GÜN YAPILAN ÇALIŞMALAR
+- İleri Birleştirme İşlemleri
+- Toplulaştırma ve Gruplama İşlemleri (Aggregation & Grouping)
 

@@ -237,3 +237,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - İleri Birleştirme İşlemleri
 - Toplulaştırma ve Gruplama İşlemleri (Aggregation & Grouping)
 
+# 30. GÜN YAPILAN ÇALIŞMALAR
+- Gruplama İşlemleri (Grouping)
+- İleri Toplulaştırma İşlemleri (Advanced Aggregation)
+- 
+

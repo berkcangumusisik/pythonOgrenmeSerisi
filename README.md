@@ -240,5 +240,12 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 # 30. GÜN YAPILAN ÇALIŞMALAR
 - Gruplama İşlemleri (Grouping)
 - İleri Toplulaştırma İşlemleri (Advanced Aggregation)
-- 
 
+
+# 31. GÜN YAPILAN ÇALIŞMALAR
+- Pivot Tablolar
+- .transform() ve .apply() Metotları
+
+
+# 32. GÜN YAPILAN ÇALIŞMALAR
+- Dış Kaynaklı Veri Okuma

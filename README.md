@@ -249,3 +249,11 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 
 # 32. GÜN YAPILAN ÇALIŞMALAR
 - Dış Kaynaklı Veri Okuma
+
+# 33. GÜN YAPILAN ÇALIŞMALAR
+- IMDB Veri Seti ile Veri Analizi
+
+# 34. GÜN YAPILAN ÇALIŞMALAR
+- Veri Setinin Yapısını İnceleme
+- Veri Seti Hakkında Bilgi Edinme
+- Veri Setinin Betimlenmesi

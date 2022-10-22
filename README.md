@@ -257,3 +257,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Veri Setinin Yapısını İnceleme
 - Veri Seti Hakkında Bilgi Edinme
 - Veri Setinin Betimlenmesi
+
+# 35. GÜN YAPILAN ÇALIŞMALAR
+- Veri Setindeki Eksik Verilerin İncelenmesi
+- Kategorik Değişken Özetleri
+- Sürekli Değişken Özetleri

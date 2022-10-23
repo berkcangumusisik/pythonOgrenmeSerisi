@@ -262,3 +262,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Veri Setindeki Eksik Verilerin İncelenmesi
 - Kategorik Değişken Özetleri
 - Sürekli Değişken Özetleri
+
+# 36. GÜN YAPILAN ÇALIŞMALAR
+- Veri Seti Hikaayesi
+- Veri Seti Hakkında Bilgi Edinme
+- Pandas ile Sütun Grafiği Oluşturma
+- SeaBorn ile Sütun Grafiği Oluşturma

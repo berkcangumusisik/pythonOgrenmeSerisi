@@ -268,3 +268,14 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Veri Seti Hakkında Bilgi Edinme
 - Pandas ile Sütun Grafiği Oluşturma
 - SeaBorn ile Sütun Grafiği Oluşturma
+
+# 37. GÜN YAPILAN ÇALIŞMALAR
+- Sütun Grafik Çaprazlamaları
+  * sns.barplot()
+  * sns.catplot()
+- Histogram ve Yoğunluk Grafiğinin Oluşturulması
+  * sns.distplot()
+  * sns.kdeplot()
+- Histogram ve Yoğunluk Çaprazlamalar
+  * sns.FacetGrid()
+  

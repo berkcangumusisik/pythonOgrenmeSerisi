@@ -279,3 +279,6 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Histogram ve Yoğunluk Çaprazlamalar
   * sns.FacetGrid()
   
+# 38. GÜN YAPILAN ÇALIŞMALAR
+- Boxplot Oluşturma
+  * sns.boxplot()

@@ -282,3 +282,12 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 # 38. GÜN YAPILAN ÇALIŞMALAR
 - Boxplot Oluşturma
   * sns.boxplot()
+
+# 39. GÜN YAPILAN ÇALIŞMALAR
+- Violinplot Oluşturma
+- Korelasyon Matrisi Oluşturma
+  
+# 40. GÜN YAPILAN ÇALIŞMALAR
+- Doğrusal İlişkinin Gösterilmesi
+- Scatter Plot (Dağılım Grafiği) Matrisi
+- Heatmap Oluşturma

@@ -291,3 +291,7 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Doğrusal İlişkinin Gösterilmesi
 - Scatter Plot (Dağılım Grafiği) Matrisi
 - Heatmap Oluşturma
+
+# 41. GÜN YAPILAN ÇALIŞMALAR
+- Çizgi Grafiği Oluşturma
+- Basit Zaman Serisi Grafiği

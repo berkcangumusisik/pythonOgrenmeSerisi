@@ -295,3 +295,16 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 # 41. GÜN YAPILAN ÇALIŞMALAR
 - Çizgi Grafiği Oluşturma
 - Basit Zaman Serisi Grafiği
+
+
+# 42. GÜN YAPILAN ÇALIŞMALAR
+- Turtle'a Giriş
+- Turtle ile Çizim Yapma
+- .forward() Metodu
+- .screen() Metodu
+- .shape() Metodu
+- .color() Metodu
+- Dikdörtgen Çizimi
+- Kesikli Çizgi Çizimi
+- Çokgen Çizimi
+- Rasgele Renklerle Çizim

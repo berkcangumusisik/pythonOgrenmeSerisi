@@ -308,3 +308,13 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Kesikli Çizgi Çizimi
 - Çokgen Çizimi
 - Rasgele Renklerle Çizim
+
+
+# 43. GÜN YAPILAN ÇALIŞMALAR
+- .speed() Metodu
+- .pensize() Metodu
+- .dot() Metodu
+- .circle() Metodu 
+- .setheading() Metodu
+- .exitonclick() Metodu
+- .colormode() Metodu

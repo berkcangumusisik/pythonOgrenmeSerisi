@@ -318,3 +318,11 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - .setheading() Metodu
 - .exitonclick() Metodu
 - .colormode() Metodu
+
+
+# 44. GÜN YAPILAN ÇALIŞMALAR
+- Ekran İşlemleri
+
+# 45. GÜN YAPILAN ÇALIŞMALAR
+- Koordinat Sistemi
+- Ekrandan Girdi Alma

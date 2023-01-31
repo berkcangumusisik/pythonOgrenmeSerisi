@@ -326,3 +326,9 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 # 45. GÜN YAPILAN ÇALIŞMALAR
 - Koordinat Sistemi
 - Ekrandan Girdi Alma
+
+
+# 46. GÜN YAPILAN ÇALIŞMALAR
+- Yılan Oyunu Ekran 
+- Yılan Oyunu Yılan Bedeni
+- Yılan Oyunu Yılan Hareketi

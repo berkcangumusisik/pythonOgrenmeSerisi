@@ -332,3 +332,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Yılan Oyunu Ekran 
 - Yılan Oyunu Yılan Bedeni
 - Yılan Oyunu Yılan Hareketi
+
+# 47. GÜN YAPILAN ÇALIŞMALAR
+- Yılan Oyunu Yem Oluşturma
+- Yılan Oyunu Yem Yeme
+- Yılan Oyunu Yılan Büyümesi

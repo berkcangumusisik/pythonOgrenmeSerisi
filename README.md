@@ -337,3 +337,8 @@ Bu repo kendi python öğrenme sürecimde aldığım notları ve yaptığım ça
 - Yılan Oyunu Yem Oluşturma
 - Yılan Oyunu Yem Yeme
 - Yılan Oyunu Yılan Büyümesi
+
+
+
+# 48.GÜN YAPILAN ÇALIŞMALAR
+- Pong Oyunu
